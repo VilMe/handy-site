@@ -1,8 +1,8 @@
 <?php
-$db_host = "localhost";
-$db_name = "cms";
-$db_user = "cms_www";
-$db_pass = <replace with env var>;
+$db_host = "";
+$db_name = "";
+$db_user = "";
+$db_pass = "<replace with env var>";
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
