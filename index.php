@@ -2,7 +2,7 @@
 $navbarLinks = [ "Home", "Completed Projects", "Contact Us"];
 ?>
 
-
+<?php require "includes/header.php" ?>
         <main>
             <article>
                 <h2>Greg Ocano</h2>
@@ -17,5 +17,4 @@ $navbarLinks = [ "Home", "Completed Projects", "Contact Us"];
                 <p id="phone-number">Call <a href="tel:7078342295">(707)834-2295</a></p>  
             </article>
         </main>
-    </body>
-</html>
+<?php require "includes/footer.php" ?>
