@@ -40,10 +40,26 @@ img {
   color: white;
 }
 
-h3 {
-  font-size: 1.5rem;
+article {
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  font-size: 2.1em;
+}
+h2 {
+  font-size: 1.7em;
 }
 
-ul {
-  list-style: none;
+h3 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.3rem;
+  display: block;
+}
+
+#phone-number {
+font-size: 1.5em;
 }
