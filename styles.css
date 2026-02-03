@@ -39,3 +39,11 @@ img {
   background-color: #04AA6D;
   color: white;
 }
+
+h3 {
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style: none;
+}

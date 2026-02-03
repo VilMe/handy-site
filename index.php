@@ -24,11 +24,12 @@ $navbarLinks = [ "Home", "Portfolio", "Contact Us"];
         <main>
             <article>
                 <h2> Greg Ocano</h2>
-                <p><strong>Owner, Small Job Specialist</strong></p>
-               
-                    <h3>Mantain</h3>
-                    <h3>Install</h3>
-                    <h3>Repair</h3>
+                <h3>Owner, Small Job Specialist</h3>
+                    <ul>
+                        <li>Mantain</li>
+                        <li>Install</li>
+                        <li>Repair</li>
+                    </ul>
                 
                 <h3><a href="./portfolio.php" title="Check out some of GregOs work">Past Jobs</a></h3>
                 <h3>Contact Us</h3>
