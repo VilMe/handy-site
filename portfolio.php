@@ -1,5 +1,9 @@
 <?php
+$projects = array (
+    array("Backyard - Humboldt Native Garden in Arcata", array("images/past-proj/01proj-backyard01.jpg", "images/past-proj/01proj-backyard02.jpg"))
+    array("Deck Refinishing in Trinidad", array("images/past-proj/02proj-deck-refinish01.jpg", "images/past-proj/02proj-deck-refinish02.jpg"))
 
+    )
 ?>
 <?php require "includes/header.php" ?>
         <main>
