@@ -60,6 +60,10 @@ p {
   display: block;
 }
 
+ul {
+  list-style-type: none;
+}
+
 #phone-number {
 font-size: 1.5em;
 }

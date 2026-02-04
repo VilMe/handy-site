@@ -10,8 +10,8 @@
     </head>
     <body>
         <div class="topnav">
-            <a class="active" href="#home">Home</a>
-            <a href="./contact.php">Contact Us</a>
+            <a href="./index.php">Home</a>
+            <a href="./portfolio.php">Past Projects</a>
         </div>
         <header>
             <h1>GO Handy Services</h1>
