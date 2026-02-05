@@ -11,7 +11,7 @@ $projects = array (
     array("Entryway Cover in McKinleyville", 
         array("images/past-proj/03proj-entryway-cover01.jpg", 
         "images/past-proj/03proj-entryway-cover02.jpg")),
-    array("Fence Replacement of 10 foot section", 
+    array("Fence Replacement - 20 foot section in McKinleyville", 
         array("images/past-proj/04proj-fence01.jpg", 
         "images/past-proj/04proj-fence02.jpg")),
     array("Deck Restain in Arcata", 
@@ -36,7 +36,7 @@ $projects = array (
                 <?php foreach ( $projects as $project ): ?> 
                     <li>
                         <div>
-                            <h3><?= $project[0] ?></h3>
+                            <h3 class="band"><?= $project[0] ?></h3>
                             <?php foreach ( $project[1] as $image ): ?>
                             <img src="<?= $image ?>">
                             <?php endforeach; ?>
